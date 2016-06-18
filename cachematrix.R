@@ -1,4 +1,8 @@
-## this isn't a function itself so much as a list of functions, kind of like a case of DVDs. you can't put the big blue case in the player and expect it to play, but you can put Speed Racer (2008) dirs. Wachowski Sisters, in it and it will play just fine.
+## this isn't a function itself so much as a list of functions, kind of like a case of DVDs. 
+##you can't put the big blue case in the player and expect it to play, 
+##but you can put Speed Racer (2008) dirs. Wachowski Sisters, 
+##(bigblue$SpeedRacer)
+##into the machine and it will play just fine.
 ## so basically this has the $set, $get, $setinv and $getinv functions
 ## you put in a matrix (I use rnorm as well, they need to be square)
 ## and it puts that in to the (x) variable within the function
